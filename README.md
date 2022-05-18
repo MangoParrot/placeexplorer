@@ -14,6 +14,9 @@ Requirements:
 
 # Installation
 Download as a zip, pip install the required libraries and run the Main.py function
+You will need to download https://placedata.reddit.com/data/canvas-history/2022_place_canvas_history-000000000000.csv.gzip
+this dataset and place it in the same folder as Main.py
+Enjoy!
 
 # WIP
 This is a work in progress
